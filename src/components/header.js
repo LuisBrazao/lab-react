@@ -1,6 +1,6 @@
 function Header(){
     return (
-        <div className="row" id="header">
+        <div className="row App-header">
             <div className="col-4" id="text">
                 <h1>Say hello to ReactJS</h1>
                 <p>You will learn how to use the most popular frontend library, and become a super Ninja developer</p>

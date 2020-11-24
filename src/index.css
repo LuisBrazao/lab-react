@@ -13,13 +13,13 @@ code {
 }
 
 #header{
-  background-color: darkblue;
   height: 400px;
   color: white;
 }
 
 #text{
-  padding-top: 150px;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 .my-btn{
